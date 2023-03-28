@@ -23,3 +23,7 @@ cd Generador-de-Tarjetas-Mastercard-Validas
 pip install -r requirimientos.txt
 
 python3 generador.py
+
+# Imágen
+
+![alt text](https://github.com/EvilZyBH/Generador-de-Tarjetas-Mastercard-Validas/blob/a6c9a6254f174bb2532240b6532b52576d1b2f64/github.png)
